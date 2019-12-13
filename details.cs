@@ -50,5 +50,5 @@ gbuffer_out copy_gbuffer(v2f I)
     gbuffer_out O;
     O.depth = half4(depth.rrr, 1.0);
     return O;
-}
+};
 
