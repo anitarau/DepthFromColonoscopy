@@ -1,9 +1,8 @@
 # DepthFromColonoscopy
-Implicit Domain Adaption with cGANs
+Public dataset: http://cmic.cs.ucl.ac.uk/ColonoscopyDepth/
 
-In this repository we report details of the data generation process used for the publicly available dataset:
+In this repository we report details of the data generation process used for the publicly available dataset.
 
-http://cmic.cs.ucl.ac.uk/ColonoscopyDepth/
 
 
 
